@@ -93,6 +93,3 @@ Using **Pydantic BaseModel** for:
 - Cross Encoder
 
 
-
-
-## ⭐ If you find this repository helpful, consider giving it a star!
